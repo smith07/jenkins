@@ -9,6 +9,6 @@ public class player {
 
     @GetMapping
     public String getBestPlayer(){
-      return "MESSI";
+      return "MESSI updated";
     }
 }
