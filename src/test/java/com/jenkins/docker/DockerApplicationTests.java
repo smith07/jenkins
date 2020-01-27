@@ -14,7 +14,7 @@ class DockerApplicationTests {
 
     @Test
     void test() {
-        Assert.hasText("t", "test");
+        Assert.hasText("t", "rien");
     }
 
 
